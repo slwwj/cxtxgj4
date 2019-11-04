@@ -19,11 +19,11 @@
         <key>bundle-identifier</key>
         <string>com.shanli.h5.SLON</string>
         <key>bundle-version</key>
-        <string>1.0.0</string>
+        <string>1.0.1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>车险推修管家</string>
+        <string>邀修管家</string>
       </dict>
     </dict>
   </array>
